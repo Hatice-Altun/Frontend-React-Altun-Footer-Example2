@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Altun | Footer Example 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Build with
+* [Create React App](https://github.com/facebook/create-react-app).
+
+## Final Result
+![Screenshot eindresultaat](src/assets/screenshot.png)
 
 ## Available Scripts
 
